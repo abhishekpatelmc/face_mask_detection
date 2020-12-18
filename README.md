@@ -5,9 +5,9 @@
 
 ## Team Info 
 
-![Abhishek patel -Team Lead](https://www.linkedin.com/in/abhishekpatelmc/)
+* [Abhishek patel -Team Lead](https://www.linkedin.com/in/abhishekpatelmc/)
 
->[Japneet Kaur Bhatia](https://www.linkedin.com/in/japneet-kaur-b-400b60194/)
+* [Japneet Kaur Bhatia](https://www.linkedin.com/in/japneet-kaur-b-400b60194/)
 
 ## Installation
 
