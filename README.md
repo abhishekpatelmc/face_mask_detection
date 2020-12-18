@@ -27,12 +27,10 @@ Prerequisites: Python,  Machine Learning
 
 **Team Info** 
 
-[Abhishek patel -Team Lead]
-(https://www.linkedin.com/in/abhishekpatelmc/)
+[Abhishek patel -Team Lead](https://www.linkedin.com/in/abhishekpatelmc/)
 
 
-[Japneet Kaur Bhatia] 
-(https://www.linkedin.com/in/japneet-kaur-b-400b60194/)
+[Japneet Kaur Bhatia](https://www.linkedin.com/in/japneet-kaur-b-400b60194/)
 
 **Work stucutre** 
 
@@ -45,11 +43,11 @@ Prerequisites:
 import openCv , tensorflow, numpy
 ```
 
-**References** 
-```
+**References**
+
 https://towardsdatascience.com/covid-19-face-mask-detection-using-tensorflow-and-opencv-702dd833515b
 
 https://www.mygreatlearning.com/blog/real-time-face-detection/
 
 https://harshilp.medium.com/real-time-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning-d0744fe048c6
-```
+
