@@ -27,11 +27,11 @@ Japneet Kaur Bhatia
 https://www.linkedin.com/in/japneet-kaur-b-400b60194/
 ```
 **Work stucutre** 
-```
+
 <img src="face_mask_detection_flowchart.png" width="450"  height="450">
 
 **How to Run**
-
+```
 Prerequisites:
 
 import openCv , tensorflow, numpy
