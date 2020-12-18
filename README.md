@@ -33,6 +33,8 @@ Intended Audience: Education, Developers, Data Scientists, AI professionals
 
 Proficiency: Beginner
 
+<img src="face_mask_detection_flowchart.png" >
+
 #references 
 
 https://towardsdatascience.com/covid-19-face-mask-detection-using-tensorflow-and-opencv-702dd833515b
